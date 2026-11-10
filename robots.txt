@@ -1,0 +1,7 @@
+User-agent: Baiduspider
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://daka.is-my.app/sitemap.xml
